@@ -1,0 +1,24 @@
+{
+  "name": "code-judge",
+  "version": "1.0.0",
+  "description": "A library to run and compile your in any language",
+  "main": "index.js",
+  "scripts": {
+    "test": "node testWithStr.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendra49/code-judge.git"
+  },
+  "keywords": [
+    "online-judge",
+    "online-compiler",
+    "code-judge"
+  ],
+  "author": "mahendra suthar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahendra49/code-judge/issues"
+  },
+  "homepage": "https://github.com/mahendra49/code-judge#readme"
+}
